@@ -1,0 +1,16 @@
+
+(14/03/2018)https://www.gitkraken.com/     #Sistema de Control de versiones Distribuida
+
+
+------Navegacion Anonima----------
+(19/03/2018)
+https://tails.boum.org/      #Tails browser   muy seguro despues de Tor
+https://geti2p.net/es/    #I2P  browser
+https://www.whonix.org/   #Whonix browser
+https://subgraph.com/sgos/   #subgraph os browser
+https://www.epicbrowser.com/    #Epic browser  poco seguro
+https://www.vpnbrowser.org/    #Globus browser 
+http://www.ipredia.org/os      #Ipredia browser basado en i2p - bit torrent anonimo
+https://freenetproject.org/documentation.html#understand   #Freenet browser prioridad privacidad Buena alternativa
+https://anonymous-proxy-servers.net/en/jondo-live-cd.html    #Jon Donym  Sistema operativo-browser  
+
