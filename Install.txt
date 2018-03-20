@@ -14,3 +14,16 @@ http://www.ipredia.org/os      #Ipredia browser basado en i2p - bit torrent anon
 https://freenetproject.org/documentation.html#understand   #Freenet browser prioridad privacidad Buena alternativa
 https://anonymous-proxy-servers.net/en/jondo-live-cd.html    #Jon Donym  Sistema operativo-browser  
 
+
+
+------Cortajuegos----------
+(20/03/2018)
+http://www.vsantivirus.com/    #Agregar comentario
+
+
+
+------Troyanos----------
+(20/03/2018)
+#Subseven permite la conexion remota, interfaz cliente servidor, caracteristicas de control de usuario
+
+#Back Orifice 2000 permite la conexion remota, interfaz cliente servidor, caracteristicas de control de usuario
